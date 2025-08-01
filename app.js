@@ -1,18 +1,18 @@
 // Application data
 const wellnessData = {
   quotes: [
-    "The most effective way to do it, is to do it. â€” Amelia Earhart",
-    "We are what we repeatedly do. Excellence, therefore, is not an act. But a habit. â€” Aristotle",
-    "Believe you can and you're halfway there. â€” Theodore Roosevelt",
-    "Take care of your body, it's the only place you have to live. â€” Jim Rohn", 
-    "What drains your spirit drains your body. What fuels your spirit fuels your body. â€” Caroline Myss",
-    "The ability to be in the present moment is a major component of mental wellness. â€” Abraham Maslow",
-    "Every moment is a fresh beginning. â€” T. S. Eliot",
-    "Just one small positive thought in the morning can change your whole day. â€” Dalai Lama",
-    "Health is a state of body. Wellness is a state of being. â€” J. Stanford",
-    "A healthy outside starts from the inside. â€” Unknown",
-    "Self-care is how you take your power back. â€” Lalah Delia",
-    "Wellness is the complete integration of body, mind, and spirit. â€” Greg Anderson"
+    "The most effective way to do it, is to do it. -” Amelia Earhart",
+    "We are what we repeatedly do. Excellence, therefore, is not an act. But a habit. -” Aristotle",
+    "Believe you can and you're halfway there. -” Theodore Roosevelt",
+    "Take care of your body, it's the only place you have to live. -” Jim Rohn", 
+    "What drains your spirit drains your body. What fuels your spirit fuels your body. -” Caroline Myss",
+    "The ability to be in the present moment is a major component of mental wellness. -” Abraham Maslow",
+    "Every moment is a fresh beginning.-” T. S. Eliot",
+    "Just one small positive thought in the morning can change your whole day. -” Dalai Lama",
+    "Health is a state of body. Wellness is a state of being. -” J. Stanford",
+    "A healthy outside starts from the inside. -” Unknown",
+    "Self-care is how you take your power back. -” Lalah Delia",
+    "Wellness is the complete integration of body, mind, and spirit. -” Greg Anderson"
   ],
   journal_prompts: [
     "What are three things I'm genuinely grateful for right now, and how do they make me feel?",
@@ -47,7 +47,7 @@ const wellnessData = {
     "You are simultaneously a work of art and the artist creating it. Be patient with your process, celebrate your progress, and remember that masterpieces take time to unfold."
   ],
   morning_routines: [
-    "**The Mindful Start (30 minutes)**: Wake up 30 minutes earlier â†’ Drink a large glass of water â†’ 5 minutes of deep breathing or meditation â†’ Write 3 gratitudes in your journal â†’ Gentle stretching or yoga â†’ Nutritious breakfast with protein â†’ Set 3 priorities for the day",
+    "**The Mindful Start (30 minutes)**: \n • Wake up 30 minutes earlier \n •’ Drink a large glass of water \n •’ 5 minutes of deep breathing or meditation \n •’ Write 3 gratitudes in your journal \n •’ Gentle stretching or yoga \n •’ Nutritious breakfast with protein \n •’ Set 3 priorities for the day",
     "**The Energizer (45 minutes)**: Rise at the same time daily â†’ Make your bed immediately â†’ Drink water with lemon â†’ 20-minute walk or exercise â†’ Cold shower or face splash â†’ Healthy breakfast â†’ Review goals and visualize success",
     "**The Wellness Foundation (60 minutes)**: Early wake-up (6-7 AM) â†’ Hydrate first thing â†’ 10 minutes of journaling â†’ 15 minutes of movement (yoga, stretching, or exercise) â†’ Mindful breakfast preparation and eating â†’ 10 minutes planning the day â†’ Brief meditation or affirmations",
     "**The Simple Start (20 minutes)**: Consistent wake time â†’ Immediate water intake â†’ Make the bed â†’ 5 minutes of gratitude reflection â†’ Quick energizing shower â†’ Grab pre-prepared healthy breakfast â†’ One positive affirmation before leaving",
